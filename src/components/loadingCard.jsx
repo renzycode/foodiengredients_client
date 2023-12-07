@@ -28,8 +28,8 @@ const LoadingCard = () => (
             </div>
         </div>
         <div className="card mx-4 my-4 my-card">
-            <div className="placeholder-glow m-1 mb-0 mx-3">
-                <div className="card-text placeholder col-12 mb-0" style={{ height: 300}}></div>
+            <div className="placeholder-glow mb-0">
+                <div className="card-text placeholder col-12 mb-0 rounded-top" style={{ height: 300}}></div>
             </div>
             <div className="card-body">
                 <div className="d-flex justify-content-between placeholder-glow">
