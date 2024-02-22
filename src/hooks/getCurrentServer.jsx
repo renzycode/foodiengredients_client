@@ -1,6 +1,6 @@
 
 
-const cloudserver = process.env.REACT_APP_CLOUD_SERVER_URL;
+const cloudserver = 'https://delightful-colt-drawers.cyclic.app';
 const localserver = process.env.REACT_APP_LOCAL_SERVER_URL;
 
 
